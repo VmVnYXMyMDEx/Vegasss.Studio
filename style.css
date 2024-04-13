@@ -1,6 +1,23 @@
 body {
-  background-color: #30363d;
-}
+    background-color: #000000;
+    display: block;
+    margin: 8px;
+  }
 .head {
   padding: 15px;
+  }
+.link {
+font-size: 30px;
+padding: 10px;
+    }
+.hh1 {
+  font-size: 35px;
+  color: whitesmoke;
+}
+.textr {
+  color: whitesmoke;
+}
+.hh2 {
+  color: whitesmoke;
+  font-size: 20;
 }
